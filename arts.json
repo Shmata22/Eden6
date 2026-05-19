@@ -1,0 +1,259 @@
+{
+  "id": "arts",
+  "label": "Arts",
+  "description": "Arts plastiques, musique et histoire des arts.",
+  "missions": [
+    {
+      "id": "ar_couleurs_01",
+      "title": "Arts plastiques : couleurs",
+      "subtitle": "Comprendre couleurs primaires et secondaires.",
+      "estimatedTime": "10 min",
+      "difficulty": "Facile",
+      "lesson": {
+        "content": "Les couleurs primaires en peinture sont souvent le rouge, le jaune et le bleu. En les mélangeant, on obtient des couleurs secondaires : orange, vert, violet.",
+        "remember": "Rouge + jaune = orange ; jaune + bleu = vert ; bleu + rouge = violet."
+      },
+      "quiz": [
+        {
+          "prompt": "Quelle couleur obtient-on avec jaune + bleu ?",
+          "choices": [
+            "vert",
+            "orange",
+            "violet",
+            "marron toujours"
+          ],
+          "answer": 0,
+          "explanation": "Jaune et bleu donnent vert."
+        },
+        {
+          "prompt": "Une couleur primaire est :",
+          "choices": [
+            "une couleur de base pour mélanger",
+            "toujours sombre",
+            "toujours transparente",
+            "impossible à voir"
+          ],
+          "answer": 0,
+          "explanation": "Elle sert à créer d’autres couleurs."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Rouge + jaune donne :",
+          "choices": [
+            "orange",
+            "vert",
+            "violet",
+            "blanc"
+          ],
+          "answer": 0,
+          "explanation": "C’est un mélange classique en peinture."
+        },
+        {
+          "instruction": "Bleu + rouge donne souvent :",
+          "choices": [
+            "violet",
+            "vert",
+            "orange",
+            "jaune"
+          ],
+          "answer": 0,
+          "explanation": "Le violet est un mélange de bleu et rouge."
+        }
+      ],
+      "reward": {
+        "xp": 70,
+        "badge": "badge_26"
+      }
+    },
+    {
+      "id": "ar_composition_01",
+      "title": "Composition d’image",
+      "subtitle": "Organiser les éléments dans l’espace.",
+      "estimatedTime": "12 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Composer une image, c’est choisir la place des formes, lignes, couleurs et vides. Un premier plan paraît proche, un arrière-plan paraît loin. Le cadrage décide ce qui entre dans l’image.",
+        "remember": "Premier plan = proche ; arrière-plan = loin."
+      },
+      "quiz": [
+        {
+          "prompt": "Le premier plan d’une image est :",
+          "choices": [
+            "ce qui semble proche",
+            "ce qui est invisible",
+            "le titre",
+            "le son"
+          ],
+          "answer": 0,
+          "explanation": "Le premier plan est devant."
+        },
+        {
+          "prompt": "Le cadrage sert à choisir :",
+          "choices": [
+            "ce qu’on voit dans l’image",
+            "la température",
+            "le nombre de pages",
+            "une conjugaison"
+          ],
+          "answer": 0,
+          "explanation": "Cadrer, c’est sélectionner une partie de la scène."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Une ligne horizontale peut donner une impression de :",
+          "choices": [
+            "calme ou stabilité",
+            "bruit",
+            "goût sucré",
+            "calcul"
+          ],
+          "answer": 0,
+          "explanation": "Les lignes influencent la lecture visuelle."
+        },
+        {
+          "instruction": "L’arrière-plan est souvent :",
+          "choices": [
+            "au fond de l’image",
+            "devant le sujet",
+            "hors de la feuille toujours",
+            "un verbe"
+          ],
+          "answer": 0,
+          "explanation": "Il est derrière le premier plan."
+        }
+      ],
+      "reward": {
+        "xp": 75,
+        "badge": "badge_28"
+      }
+    },
+    {
+      "id": "ar_musique_01",
+      "title": "Éducation musicale : rythme",
+      "subtitle": "Identifier pulsation et rythme.",
+      "estimatedTime": "10 min",
+      "difficulty": "Facile",
+      "lesson": {
+        "content": "La pulsation est un battement régulier, comme le cœur de la musique. Le rythme organise des sons longs, courts, rapides ou lents sur cette pulsation.",
+        "remember": "La pulsation est régulière ; le rythme peut varier."
+      },
+      "quiz": [
+        {
+          "prompt": "La pulsation est :",
+          "choices": [
+            "un battement régulier",
+            "une couleur",
+            "un outil de géométrie",
+            "un silence impossible"
+          ],
+          "answer": 0,
+          "explanation": "Elle marque le temps régulier."
+        },
+        {
+          "prompt": "Le rythme peut contenir :",
+          "choices": [
+            "des sons longs et courts",
+            "uniquement des triangles",
+            "des nombres décimaux seulement",
+            "des cartes"
+          ],
+          "answer": 0,
+          "explanation": "Le rythme organise les durées."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Taper régulièrement dans ses mains marque :",
+          "choices": [
+            "la pulsation",
+            "le cadrage",
+            "la perspective",
+            "la conjugaison"
+          ],
+          "answer": 0,
+          "explanation": "Un battement régulier = pulsation."
+        },
+        {
+          "instruction": "Un silence en musique est :",
+          "choices": [
+            "un moment sans son",
+            "une erreur toujours",
+            "une couleur",
+            "un pays"
+          ],
+          "answer": 0,
+          "explanation": "Le silence fait partie de la musique."
+        }
+      ],
+      "reward": {
+        "xp": 70,
+        "badge": "badge_30"
+      }
+    },
+    {
+      "id": "ar_histoire_01",
+      "title": "Histoire des arts : observer une œuvre",
+      "subtitle": "Décrire avant d’interpréter.",
+      "estimatedTime": "12 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Observer une œuvre demande de décrire ce que l’on voit : formes, couleurs, personnages, matériaux, époque si elle est connue. Ensuite seulement, on peut proposer une interprétation argumentée.",
+        "remember": "Décrire = dire ce qu’on voit ; interpréter = expliquer ce que cela peut signifier."
+      },
+      "quiz": [
+        {
+          "prompt": "Avant d’interpréter une œuvre, il faut d’abord :",
+          "choices": [
+            "observer et décrire",
+            "inventer sans regarder",
+            "calculer une division",
+            "fermer les yeux"
+          ],
+          "answer": 0,
+          "explanation": "La description fonde l’interprétation."
+        },
+        {
+          "prompt": "Un matériau peut être :",
+          "choices": [
+            "bois, pierre, peinture",
+            "hier, demain",
+            "rouge seulement",
+            "un verbe"
+          ],
+          "answer": 0,
+          "explanation": "Les matériaux composent l’œuvre."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Quelle phrase est une description ?",
+          "choices": [
+            "On voit trois personnages au centre.",
+            "Cette œuvre est forcément triste.",
+            "Je n’aime pas.",
+            "Elle veut dire tout."
+          ],
+          "answer": 0,
+          "explanation": "Elle décrit un élément visible."
+        },
+        {
+          "instruction": "Une interprétation doit être :",
+          "choices": [
+            "justifiée par des indices",
+            "sans rapport avec l’œuvre",
+            "toujours identique pour tous",
+            "un simple calcul"
+          ],
+          "answer": 0,
+          "explanation": "Elle s’appuie sur ce qu’on observe."
+        }
+      ],
+      "reward": {
+        "xp": 80,
+        "badge": "badge_29"
+      }
+    }
+  ]
+}

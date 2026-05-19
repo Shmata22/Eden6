@@ -1,0 +1,259 @@
+{
+  "id": "emc",
+  "label": "EMC",
+  "description": "Respect, règles, citoyenneté et esprit critique.",
+  "missions": [
+    {
+      "id": "emc_regles_01",
+      "title": "Règles de vie collective",
+      "subtitle": "Comprendre droits et devoirs.",
+      "estimatedTime": "10 min",
+      "difficulty": "Facile",
+      "lesson": {
+        "content": "Vivre ensemble demande des règles. Un droit permet de faire ou recevoir quelque chose. Un devoir indique ce que chacun doit respecter pour protéger les autres.",
+        "remember": "Les droits et les devoirs fonctionnent ensemble."
+      },
+      "quiz": [
+        {
+          "prompt": "À l’école, écouter les autres est :",
+          "choices": [
+            "un devoir de respect",
+            "un calcul",
+            "un lieu",
+            "une couleur"
+          ],
+          "answer": 0,
+          "explanation": "C’est une règle de respect."
+        },
+        {
+          "prompt": "Un droit est :",
+          "choices": [
+            "ce qu’on peut faire ou recevoir",
+            "une punition automatique",
+            "un bruit",
+            "un outil"
+          ],
+          "answer": 0,
+          "explanation": "Un droit protège une liberté ou un besoin."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Choisis un comportement respectueux.",
+          "choices": [
+            "Laisser parler un camarade.",
+            "Se moquer.",
+            "Couper la parole.",
+            "Cacher le matériel."
+          ],
+          "answer": 0,
+          "explanation": "Le respect permet de vivre ensemble."
+        },
+        {
+          "instruction": "Une règle collective sert à :",
+          "choices": [
+            "organiser la vie du groupe",
+            "empêcher toute liberté",
+            "remplacer l’école",
+            "choisir la météo"
+          ],
+          "answer": 0,
+          "explanation": "Elle protège le groupe."
+        }
+      ],
+      "reward": {
+        "xp": 70,
+        "badge": "badge_16"
+      }
+    },
+    {
+      "id": "emc_symbols_01",
+      "title": "Symboles de la République",
+      "subtitle": "Reconnaître quelques symboles français.",
+      "estimatedTime": "11 min",
+      "difficulty": "Facile",
+      "lesson": {
+        "content": "La République française a des symboles : le drapeau tricolore, la devise « Liberté, Égalité, Fraternité », Marianne, La Marseillaise. Ils représentent des valeurs communes.",
+        "remember": "Un symbole représente une idée ou une valeur partagée."
+      },
+      "quiz": [
+        {
+          "prompt": "Quelle est la devise de la République française ?",
+          "choices": [
+            "Liberté, Égalité, Fraternité",
+            "Force, Silence, Victoire",
+            "Lire, Écrire, Compter",
+            "Nord, Sud, Est"
+          ],
+          "answer": 0,
+          "explanation": "C’est la devise officielle."
+        },
+        {
+          "prompt": "Le drapeau français est :",
+          "choices": [
+            "bleu, blanc, rouge",
+            "vert, jaune, rouge",
+            "noir et blanc",
+            "bleu et orange"
+          ],
+          "answer": 0,
+          "explanation": "Le drapeau tricolore est bleu, blanc, rouge."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Marianne représente :",
+          "choices": [
+            "la République",
+            "un fleuve",
+            "un continent",
+            "un nombre"
+          ],
+          "answer": 0,
+          "explanation": "Marianne est une figure symbolique."
+        },
+        {
+          "instruction": "La Marseillaise est :",
+          "choices": [
+            "l’hymne national",
+            "une carte",
+            "une règle",
+            "une monnaie"
+          ],
+          "answer": 0,
+          "explanation": "C’est l’hymne national français."
+        }
+      ],
+      "reward": {
+        "xp": 75,
+        "badge": "badge_18"
+      }
+    },
+    {
+      "id": "emc_media_01",
+      "title": "Esprit critique : vérifier une information",
+      "subtitle": "Identifier source et preuve.",
+      "estimatedTime": "12 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Une information fiable doit pouvoir être vérifiée. Il faut regarder la source, la date, l’auteur et comparer avec d’autres sources. Une rumeur peut circuler vite sans être vraie.",
+        "remember": "Avant de partager, on vérifie la source et la date."
+      },
+      "quiz": [
+        {
+          "prompt": "Pour vérifier une information, il faut regarder :",
+          "choices": [
+            "la source",
+            "seulement la couleur",
+            "le nombre de points d’exclamation",
+            "la taille de l’image"
+          ],
+          "answer": 0,
+          "explanation": "La source aide à juger la fiabilité."
+        },
+        {
+          "prompt": "Une rumeur est :",
+          "choices": [
+            "une information non vérifiée",
+            "une preuve scientifique",
+            "une loi",
+            "un outil"
+          ],
+          "answer": 0,
+          "explanation": "Elle peut être fausse."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Quelle question aide à vérifier ?",
+          "choices": [
+            "Qui a publié cette information ?",
+            "Quelle est ma couleur préférée ?",
+            "Combien pèse mon cartable ?",
+            "Quel est le plus joli dessin ?"
+          ],
+          "answer": 0,
+          "explanation": "L’auteur/source est essentiel."
+        },
+        {
+          "instruction": "Une date ancienne peut indiquer que l’information est :",
+          "choices": [
+            "peut-être dépassée",
+            "toujours fausse",
+            "toujours secrète",
+            "impossible à lire"
+          ],
+          "answer": 0,
+          "explanation": "Le contexte peut changer."
+        }
+      ],
+      "reward": {
+        "xp": 80,
+        "badge": "badge_19"
+      }
+    },
+    {
+      "id": "emc_cooperation_01",
+      "title": "Coopération",
+      "subtitle": "Travailler en groupe efficacement.",
+      "estimatedTime": "10 min",
+      "difficulty": "Facile",
+      "lesson": {
+        "content": "Coopérer, c’est agir ensemble pour atteindre un objectif commun. Chacun peut avoir un rôle : lire la consigne, écrire, vérifier, présenter. La coopération demande écoute et responsabilité.",
+        "remember": "Un groupe efficace répartit les rôles et respecte la parole de chacun."
+      },
+      "quiz": [
+        {
+          "prompt": "Coopérer signifie :",
+          "choices": [
+            "travailler ensemble",
+            "faire seul sans écouter",
+            "crier plus fort",
+            "effacer le travail"
+          ],
+          "answer": 0,
+          "explanation": "La coopération repose sur l’action commune."
+        },
+        {
+          "prompt": "Dans un groupe, répartir les rôles sert à :",
+          "choices": [
+            "organiser le travail",
+            "ralentir exprès",
+            "cacher les idées",
+            "éviter toute responsabilité"
+          ],
+          "answer": 0,
+          "explanation": "Cela rend le travail plus clair."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Choisis une attitude coopérative.",
+          "choices": [
+            "Proposer une idée et écouter les autres.",
+            "Prendre tout le matériel.",
+            "Refuser de participer.",
+            "Se moquer d’une erreur."
+          ],
+          "answer": 0,
+          "explanation": "Coopérer demande écoute et participation."
+        },
+        {
+          "instruction": "Quand il y a désaccord, il vaut mieux :",
+          "choices": [
+            "argumenter calmement",
+            "crier",
+            "quitter le groupe",
+            "déchirer la feuille"
+          ],
+          "answer": 0,
+          "explanation": "Le dialogue aide à résoudre le problème."
+        }
+      ],
+      "reward": {
+        "xp": 70,
+        "badge": "badge_20"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "EdenSchool",
+  "classId": "cm2",
+  "classLabel": "CM2",
+  "cycle": "Cycle 3",
+  "parentsCode": "52635",
+  "storageVersion": "eden5-local-v1",
+  "subjects": [
+    {
+      "id": "francais",
+      "label": "Français",
+      "badgePrefix": "badge_01",
+      "icon": "badge_01"
+    },
+    {
+      "id": "maths",
+      "label": "Maths",
+      "badgePrefix": "badge_06",
+      "icon": "badge_06"
+    },
+    {
+      "id": "anglais",
+      "label": "Anglais",
+      "badgePrefix": "badge_11",
+      "icon": "badge_11"
+    },
+    {
+      "id": "histoiregeo",
+      "label": "Histoire-Géo",
+      "badgePrefix": "badge_21",
+      "icon": "badge_21"
+    },
+    {
+      "id": "sciences",
+      "label": "Sciences",
+      "badgePrefix": "badge_31",
+      "icon": "badge_31"
+    },
+    {
+      "id": "emc",
+      "label": "EMC",
+      "badgePrefix": "badge_16",
+      "icon": "badge_16"
+    },
+    {
+      "id": "arts",
+      "label": "Arts",
+      "badgePrefix": "badge_26",
+      "icon": "badge_26"
+    }
+  ],
+  "defaultSubject": "francais"
+}

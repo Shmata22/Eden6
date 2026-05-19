@@ -1,0 +1,655 @@
+{
+  "count": 50,
+  "items": [
+    {
+      "id": "avatar_01",
+      "file": "assets/avatars/avatar_01.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 1,
+      "col": 1,
+      "sourceBox": [
+        33,
+        15,
+        133,
+        177
+      ]
+    },
+    {
+      "id": "avatar_02",
+      "file": "assets/avatars/avatar_02.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 1,
+      "col": 2,
+      "sourceBox": [
+        210,
+        15,
+        127,
+        177
+      ]
+    },
+    {
+      "id": "avatar_03",
+      "file": "assets/avatars/avatar_03.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 1,
+      "col": 3,
+      "sourceBox": [
+        381,
+        15,
+        126,
+        177
+      ]
+    },
+    {
+      "id": "avatar_04",
+      "file": "assets/avatars/avatar_04.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 1,
+      "col": 4,
+      "sourceBox": [
+        548,
+        9,
+        132,
+        183
+      ]
+    },
+    {
+      "id": "avatar_05",
+      "file": "assets/avatars/avatar_05.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 1,
+      "col": 5,
+      "sourceBox": [
+        727,
+        12,
+        127,
+        177
+      ]
+    },
+    {
+      "id": "avatar_06",
+      "file": "assets/avatars/avatar_06.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 2,
+      "col": 1,
+      "sourceBox": [
+        30,
+        188,
+        132,
+        184
+      ]
+    },
+    {
+      "id": "avatar_07",
+      "file": "assets/avatars/avatar_07.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 2,
+      "col": 2,
+      "sourceBox": [
+        200,
+        188,
+        148,
+        183
+      ]
+    },
+    {
+      "id": "avatar_08",
+      "file": "assets/avatars/avatar_08.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 2,
+      "col": 3,
+      "sourceBox": [
+        376,
+        188,
+        138,
+        185
+      ]
+    },
+    {
+      "id": "avatar_09",
+      "file": "assets/avatars/avatar_09.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 2,
+      "col": 4,
+      "sourceBox": [
+        550,
+        191,
+        132,
+        182
+      ]
+    },
+    {
+      "id": "avatar_10",
+      "file": "assets/avatars/avatar_10.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 2,
+      "col": 5,
+      "sourceBox": [
+        717,
+        188,
+        140,
+        184
+      ]
+    },
+    {
+      "id": "avatar_11",
+      "file": "assets/avatars/avatar_11.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 3,
+      "col": 1,
+      "sourceBox": [
+        23,
+        393,
+        148,
+        181
+      ]
+    },
+    {
+      "id": "avatar_12",
+      "file": "assets/avatars/avatar_12.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 3,
+      "col": 2,
+      "sourceBox": [
+        188,
+        388,
+        156,
+        185
+      ]
+    },
+    {
+      "id": "avatar_13",
+      "file": "assets/avatars/avatar_13.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 3,
+      "col": 3,
+      "sourceBox": [
+        354,
+        387,
+        167,
+        187
+      ]
+    },
+    {
+      "id": "avatar_14",
+      "file": "assets/avatars/avatar_14.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 3,
+      "col": 4,
+      "sourceBox": [
+        534,
+        382,
+        171,
+        192
+      ]
+    },
+    {
+      "id": "avatar_15",
+      "file": "assets/avatars/avatar_15.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 3,
+      "col": 5,
+      "sourceBox": [
+        704,
+        389,
+        160,
+        185
+      ]
+    },
+    {
+      "id": "avatar_16",
+      "file": "assets/avatars/avatar_16.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 4,
+      "col": 1,
+      "sourceBox": [
+        16,
+        583,
+        163,
+        181
+      ]
+    },
+    {
+      "id": "avatar_17",
+      "file": "assets/avatars/avatar_17.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 4,
+      "col": 2,
+      "sourceBox": [
+        200,
+        580,
+        143,
+        184
+      ]
+    },
+    {
+      "id": "avatar_18",
+      "file": "assets/avatars/avatar_18.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 4,
+      "col": 3,
+      "sourceBox": [
+        363,
+        587,
+        158,
+        177
+      ]
+    },
+    {
+      "id": "avatar_19",
+      "file": "assets/avatars/avatar_19.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 4,
+      "col": 4,
+      "sourceBox": [
+        532,
+        578,
+        153,
+        186
+      ]
+    },
+    {
+      "id": "avatar_20",
+      "file": "assets/avatars/avatar_20.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 4,
+      "col": 5,
+      "sourceBox": [
+        705,
+        587,
+        157,
+        177
+      ]
+    },
+    {
+      "id": "avatar_21",
+      "file": "assets/avatars/avatar_21.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 5,
+      "col": 1,
+      "sourceBox": [
+        21,
+        774,
+        167,
+        181
+      ]
+    },
+    {
+      "id": "avatar_22",
+      "file": "assets/avatars/avatar_22.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 5,
+      "col": 2,
+      "sourceBox": [
+        189,
+        788,
+        176,
+        164
+      ]
+    },
+    {
+      "id": "avatar_23",
+      "file": "assets/avatars/avatar_23.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 5,
+      "col": 3,
+      "sourceBox": [
+        382,
+        778,
+        132,
+        177
+      ]
+    },
+    {
+      "id": "avatar_24",
+      "file": "assets/avatars/avatar_24.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 5,
+      "col": 4,
+      "sourceBox": [
+        543,
+        788,
+        153,
+        167
+      ]
+    },
+    {
+      "id": "avatar_25",
+      "file": "assets/avatars/avatar_25.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 5,
+      "col": 5,
+      "sourceBox": [
+        715,
+        786,
+        144,
+        169
+      ]
+    },
+    {
+      "id": "avatar_26",
+      "file": "assets/avatars/avatar_26.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 6,
+      "col": 1,
+      "sourceBox": [
+        30,
+        975,
+        151,
+        153
+      ]
+    },
+    {
+      "id": "avatar_27",
+      "file": "assets/avatars/avatar_27.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 6,
+      "col": 2,
+      "sourceBox": [
+        215,
+        952,
+        119,
+        176
+      ]
+    },
+    {
+      "id": "avatar_28",
+      "file": "assets/avatars/avatar_28.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 6,
+      "col": 3,
+      "sourceBox": [
+        368,
+        961,
+        151,
+        167
+      ]
+    },
+    {
+      "id": "avatar_29",
+      "file": "assets/avatars/avatar_29.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 6,
+      "col": 4,
+      "sourceBox": [
+        557,
+        968,
+        124,
+        160
+      ]
+    },
+    {
+      "id": "avatar_30",
+      "file": "assets/avatars/avatar_30.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 6,
+      "col": 5,
+      "sourceBox": [
+        721,
+        975,
+        157,
+        153
+      ]
+    },
+    {
+      "id": "avatar_31",
+      "file": "assets/avatars/avatar_31.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 7,
+      "col": 1,
+      "sourceBox": [
+        13,
+        1148,
+        162,
+        153
+      ]
+    },
+    {
+      "id": "avatar_32",
+      "file": "assets/avatars/avatar_32.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 7,
+      "col": 2,
+      "sourceBox": [
+        184,
+        1138,
+        164,
+        163
+      ]
+    },
+    {
+      "id": "avatar_33",
+      "file": "assets/avatars/avatar_33.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 7,
+      "col": 3,
+      "sourceBox": [
+        362,
+        1138,
+        149,
+        164
+      ]
+    },
+    {
+      "id": "avatar_34",
+      "file": "assets/avatars/avatar_34.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 7,
+      "col": 4,
+      "sourceBox": [
+        525,
+        1128,
+        181,
+        173
+      ]
+    },
+    {
+      "id": "avatar_35",
+      "file": "assets/avatars/avatar_35.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 7,
+      "col": 5,
+      "sourceBox": [
+        713,
+        1141,
+        149,
+        164
+      ]
+    },
+    {
+      "id": "avatar_36",
+      "file": "assets/avatars/avatar_36.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 8,
+      "col": 1,
+      "sourceBox": [
+        14,
+        1311,
+        154,
+        155
+      ]
+    },
+    {
+      "id": "avatar_37",
+      "file": "assets/avatars/avatar_37.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 8,
+      "col": 2,
+      "sourceBox": [
+        186,
+        1308,
+        163,
+        156
+      ]
+    },
+    {
+      "id": "avatar_38",
+      "file": "assets/avatars/avatar_38.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 8,
+      "col": 3,
+      "sourceBox": [
+        351,
+        1311,
+        181,
+        153
+      ]
+    },
+    {
+      "id": "avatar_39",
+      "file": "assets/avatars/avatar_39.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 8,
+      "col": 4,
+      "sourceBox": [
+        534,
+        1305,
+        160,
+        161
+      ]
+    },
+    {
+      "id": "avatar_40",
+      "file": "assets/avatars/avatar_40.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 8,
+      "col": 5,
+      "sourceBox": [
+        704,
+        1311,
+        163,
+        155
+      ]
+    },
+    {
+      "id": "avatar_41",
+      "file": "assets/avatars/avatar_41.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 9,
+      "col": 1,
+      "sourceBox": [
+        25,
+        1460,
+        146,
+        167
+      ]
+    },
+    {
+      "id": "avatar_42",
+      "file": "assets/avatars/avatar_42.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 9,
+      "col": 2,
+      "sourceBox": [
+        189,
+        1467,
+        159,
+        160
+      ]
+    },
+    {
+      "id": "avatar_43",
+      "file": "assets/avatars/avatar_43.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 9,
+      "col": 3,
+      "sourceBox": [
+        364,
+        1475,
+        164,
+        156
+      ]
+    },
+    {
+      "id": "avatar_44",
+      "file": "assets/avatars/avatar_44.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 9,
+      "col": 4,
+      "sourceBox": [
+        548,
+        1468,
+        150,
+        159
+      ]
+    },
+    {
+      "id": "avatar_45",
+      "file": "assets/avatars/avatar_45.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 9,
+      "col": 5,
+      "sourceBox": [
+        714,
+        1482,
+        144,
+        148
+      ]
+    },
+    {
+      "id": "avatar_46",
+      "file": "assets/avatars/avatar_46.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 10,
+      "col": 1,
+      "sourceBox": [
+        14,
+        1628,
+        164,
+        145
+      ]
+    },
+    {
+      "id": "avatar_47",
+      "file": "assets/avatars/avatar_47.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 10,
+      "col": 2,
+      "sourceBox": [
+        186,
+        1630,
+        160,
+        143
+      ]
+    },
+    {
+      "id": "avatar_48",
+      "file": "assets/avatars/avatar_48.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 10,
+      "col": 3,
+      "sourceBox": [
+        372,
+        1630,
+        133,
+        144
+      ]
+    },
+    {
+      "id": "avatar_49",
+      "file": "assets/avatars/avatar_49.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 10,
+      "col": 4,
+      "sourceBox": [
+        539,
+        1630,
+        161,
+        144
+      ]
+    },
+    {
+      "id": "avatar_50",
+      "file": "assets/avatars/avatar_50.webp",
+      "sheet": "assets/ui/Avatars_sheet.webp",
+      "row": 10,
+      "col": 5,
+      "sourceBox": [
+        712,
+        1633,
+        148,
+        140
+      ]
+    }
+  ]
+}

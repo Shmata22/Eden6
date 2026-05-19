@@ -1,0 +1,259 @@
+{
+  "id": "anglais",
+  "label": "Anglais",
+  "description": "Compréhension et expression simples en anglais.",
+  "missions": [
+    {
+      "id": "en_greetings_01",
+      "title": "Greetings",
+      "subtitle": "Saluer et se présenter.",
+      "estimatedTime": "8 min",
+      "difficulty": "Facile",
+      "lesson": {
+        "content": "En anglais, on utilise « Hello », « Good morning », « Good afternoon » pour saluer. Pour se présenter : « My name is… ». Pour demander le nom : « What is your name? »",
+        "remember": "Hello = bonjour ; My name is… = je m’appelle…"
+      },
+      "quiz": [
+        {
+          "prompt": "Comment dit-on « Bonjour » simplement ?",
+          "choices": [
+            "Hello",
+            "Good night",
+            "Thanks",
+            "Blue"
+          ],
+          "answer": 0,
+          "explanation": "Hello est une salutation simple."
+        },
+        {
+          "prompt": "Que signifie « My name is Tom » ?",
+          "choices": [
+            "Je m’appelle Tom",
+            "J’ai faim",
+            "Je suis à l’école",
+            "J’aime le bleu"
+          ],
+          "answer": 0,
+          "explanation": "My name is signifie je m’appelle."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Choisis la bonne réponse à « How are you? »",
+          "choices": [
+            "I’m fine, thank you.",
+            "My pencil is red.",
+            "It is a dog.",
+            "Good night only."
+          ],
+          "answer": 0,
+          "explanation": "On répond avec son état."
+        },
+        {
+          "instruction": "« Good morning » s’utilise plutôt :",
+          "choices": [
+            "le matin",
+            "la nuit",
+            "pour compter",
+            "pour dire au revoir"
+          ],
+          "answer": 0,
+          "explanation": "Morning signifie matin."
+        }
+      ],
+      "reward": {
+        "xp": 70,
+        "badge": "badge_11"
+      }
+    },
+    {
+      "id": "en_numbers_01",
+      "title": "Numbers and age",
+      "subtitle": "Compter et dire son âge.",
+      "estimatedTime": "9 min",
+      "difficulty": "Facile",
+      "lesson": {
+        "content": "Pour dire son âge : « I am ten years old ». Les nombres utiles : one, two, three, four, five, six, seven, eight, nine, ten.",
+        "remember": "Pour l’âge : I am + nombre + years old."
+      },
+      "quiz": [
+        {
+          "prompt": "Que signifie « twelve » ?",
+          "choices": [
+            "12",
+            "20",
+            "2",
+            "10"
+          ],
+          "answer": 0,
+          "explanation": "Twelve = douze."
+        },
+        {
+          "prompt": "Comment dire « J’ai 10 ans » ?",
+          "choices": [
+            "I am ten years old.",
+            "I have ten old.",
+            "I ten years.",
+            "My age ten."
+          ],
+          "answer": 0,
+          "explanation": "La formule correcte est I am ten years old."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Choisis le nombre 15.",
+          "choices": [
+            "fifteen",
+            "fifty",
+            "five",
+            "fourteen"
+          ],
+          "answer": 0,
+          "explanation": "Fifteen = 15."
+        },
+        {
+          "instruction": "« eleven » signifie :",
+          "choices": [
+            "11",
+            "7",
+            "17",
+            "20"
+          ],
+          "answer": 0,
+          "explanation": "Eleven = onze."
+        }
+      ],
+      "reward": {
+        "xp": 75,
+        "badge": "badge_13"
+      }
+    },
+    {
+      "id": "en_school_01",
+      "title": "School objects",
+      "subtitle": "Nommer le matériel scolaire.",
+      "estimatedTime": "10 min",
+      "difficulty": "Facile",
+      "lesson": {
+        "content": "Quelques objets de classe : pen, pencil, ruler, book, notebook, bag. Pour demander : « What is it? » Réponse : « It is a pencil. »",
+        "remember": "Pen = stylo ; pencil = crayon ; ruler = règle ; book = livre."
+      },
+      "quiz": [
+        {
+          "prompt": "Que signifie « book » ?",
+          "choices": [
+            "livre",
+            "stylo",
+            "sac",
+            "règle"
+          ],
+          "answer": 0,
+          "explanation": "Book = livre."
+        },
+        {
+          "prompt": "Comment dit-on « règle » ?",
+          "choices": [
+            "ruler",
+            "rubber",
+            "red",
+            "read"
+          ],
+          "answer": 0,
+          "explanation": "Ruler = règle."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Complète : « It is a ___ » pour un crayon.",
+          "choices": [
+            "pencil",
+            "school",
+            "green",
+            "morning"
+          ],
+          "answer": 0,
+          "explanation": "Pencil = crayon."
+        },
+        {
+          "instruction": "Que signifie « bag » ?",
+          "choices": [
+            "sac",
+            "livre",
+            "gomme",
+            "chaise"
+          ],
+          "answer": 0,
+          "explanation": "Bag = sac."
+        }
+      ],
+      "reward": {
+        "xp": 70,
+        "badge": "badge_12"
+      }
+    },
+    {
+      "id": "en_directions_01",
+      "title": "Directions",
+      "subtitle": "Comprendre des consignes simples.",
+      "estimatedTime": "10 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "En classe, les consignes fréquentes sont : listen, repeat, read, write, open your book, close your notebook. Les verbes d’action permettent de comprendre rapidement ce qu’il faut faire.",
+        "remember": "Listen = écoute ; repeat = répète ; write = écris ; read = lis."
+      },
+      "quiz": [
+        {
+          "prompt": "Que signifie « Listen » ?",
+          "choices": [
+            "Écoute",
+            "Écris",
+            "Dessine",
+            "Ferme"
+          ],
+          "answer": 0,
+          "explanation": "Listen veut dire écouter."
+        },
+        {
+          "prompt": "Quelle consigne signifie « Lis » ?",
+          "choices": [
+            "Read",
+            "Write",
+            "Close",
+            "Stand"
+          ],
+          "answer": 0,
+          "explanation": "Read = lire."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "« Open your book » signifie :",
+          "choices": [
+            "Ouvre ton livre",
+            "Ferme ton cahier",
+            "Écoute la radio",
+            "Prends ton stylo"
+          ],
+          "answer": 0,
+          "explanation": "Open = ouvrir ; book = livre."
+        },
+        {
+          "instruction": "Choisis « écris » en anglais.",
+          "choices": [
+            "Write",
+            "Listen",
+            "Repeat",
+            "Blue"
+          ],
+          "answer": 0,
+          "explanation": "Write = écrire."
+        }
+      ],
+      "reward": {
+        "xp": 75,
+        "badge": "badge_14"
+      }
+    }
+  ]
+}

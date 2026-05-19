@@ -1,0 +1,259 @@
+{
+  "id": "histoiregeo",
+  "label": "Histoire-Géo",
+  "description": "Repères historiques, cartes et espaces.",
+  "missions": [
+    {
+      "id": "hg_reperes_01",
+      "title": "Histoire : se repérer dans le temps",
+      "subtitle": "Utiliser siècle, date et frise.",
+      "estimatedTime": "12 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Une frise chronologique permet de placer des événements dans l’ordre. Un siècle dure 100 ans. Les années 1401 à 1500 appartiennent au XVe siècle.",
+        "remember": "Pour trouver le siècle, on ajoute souvent 1 aux deux premiers chiffres, sauf pour une année qui finit par 00."
+      },
+      "quiz": [
+        {
+          "prompt": "Combien d’années dure un siècle ?",
+          "choices": [
+            "100",
+            "10",
+            "50",
+            "1000"
+          ],
+          "answer": 0,
+          "explanation": "Un siècle correspond à cent ans."
+        },
+        {
+          "prompt": "1492 appartient à quel siècle ?",
+          "choices": [
+            "XVe siècle",
+            "XIVe siècle",
+            "XVIe siècle",
+            "XXe siècle"
+          ],
+          "answer": 0,
+          "explanation": "Les années 1401 à 1500 sont au XVe siècle."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Quel outil classe les événements dans le temps ?",
+          "choices": [
+            "une frise chronologique",
+            "une boussole",
+            "une règle graduée",
+            "un compas"
+          ],
+          "answer": 0,
+          "explanation": "La frise sert à ordonner le temps."
+        },
+        {
+          "instruction": "1789 est avant 1914. Cette phrase est :",
+          "choices": [
+            "vraie",
+            "fausse",
+            "impossible",
+            "sans rapport"
+          ],
+          "answer": 0,
+          "explanation": "1789 vient avant 1914 sur une frise."
+        }
+      ],
+      "reward": {
+        "xp": 80,
+        "badge": "badge_23"
+      }
+    },
+    {
+      "id": "hg_france_01",
+      "title": "Géographie : lire une carte",
+      "subtitle": "Comprendre titre, légende et échelle.",
+      "estimatedTime": "13 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Une carte représente un espace. Le titre indique le sujet, la légende explique les symboles, l’échelle aide à comprendre les distances réelles.",
+        "remember": "Sans légende, on ne peut pas interpréter correctement les couleurs et symboles d’une carte."
+      },
+      "quiz": [
+        {
+          "prompt": "Que sert à expliquer la légende ?",
+          "choices": [
+            "les symboles",
+            "le nom de l’auteur seulement",
+            "la date du jour",
+            "la météo"
+          ],
+          "answer": 0,
+          "explanation": "La légende donne le sens des signes."
+        },
+        {
+          "prompt": "Quel élément donne le sujet de la carte ?",
+          "choices": [
+            "le titre",
+            "l’échelle",
+            "la rose des vents",
+            "un fleuve"
+          ],
+          "answer": 0,
+          "explanation": "Le titre annonce le thème."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Sur une carte, un trait bleu représente souvent :",
+          "choices": [
+            "un cours d’eau",
+            "une frontière invisible seulement",
+            "un volcan",
+            "une route uniquement"
+          ],
+          "answer": 0,
+          "explanation": "Le bleu sert souvent pour l’eau."
+        },
+        {
+          "instruction": "L’échelle sert à :",
+          "choices": [
+            "estimer les distances",
+            "colorier la carte",
+            "nommer les villes",
+            "effacer les symboles"
+          ],
+          "answer": 0,
+          "explanation": "Elle relie la carte à la réalité."
+        }
+      ],
+      "reward": {
+        "xp": 80,
+        "badge": "badge_21"
+      }
+    },
+    {
+      "id": "hg_moyenage_01",
+      "title": "Histoire : le Moyen Âge",
+      "subtitle": "Comprendre seigneurs, paysans et châteaux.",
+      "estimatedTime": "14 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Au Moyen Âge, la société est organisée autour de seigneuries. Le seigneur protège son territoire depuis son château. Les paysans cultivent les terres et paient des redevances.",
+        "remember": "Un château fort est à la fois un lieu de pouvoir, de défense et d’habitation."
+      },
+      "quiz": [
+        {
+          "prompt": "Qui dirige une seigneurie ?",
+          "choices": [
+            "un seigneur",
+            "un astronaute",
+            "un pharaon",
+            "un président de club"
+          ],
+          "answer": 0,
+          "explanation": "La seigneurie est dirigée par un seigneur."
+        },
+        {
+          "prompt": "Le château fort sert surtout à :",
+          "choices": [
+            "défendre et contrôler un territoire",
+            "fabriquer des ordinateurs",
+            "cultiver le blé",
+            "mesurer la température"
+          ],
+          "answer": 0,
+          "explanation": "Il a une fonction militaire et politique."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Les paysans du Moyen Âge travaillent surtout :",
+          "choices": [
+            "la terre",
+            "dans des usines modernes",
+            "sur Internet",
+            "dans des avions"
+          ],
+          "answer": 0,
+          "explanation": "L’agriculture occupe une grande place."
+        },
+        {
+          "instruction": "Une redevance est :",
+          "choices": [
+            "ce qu’on doit payer ou fournir",
+            "une fête",
+            "une arme",
+            "une rivière"
+          ],
+          "answer": 0,
+          "explanation": "C’est une obligation envers le seigneur."
+        }
+      ],
+      "reward": {
+        "xp": 85,
+        "badge": "badge_24"
+      }
+    },
+    {
+      "id": "hg_developpement_01",
+      "title": "Géographie : habiter un espace",
+      "subtitle": "Comparer ville, campagne et littoral.",
+      "estimatedTime": "12 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Les habitants organisent leur espace selon leurs besoins : se loger, se déplacer, travailler, se divertir. Une ville concentre beaucoup de services ; un littoral est lié à la mer ; une campagne comporte des espaces agricoles.",
+        "remember": "Observer les activités humaines aide à comprendre un paysage."
+      },
+      "quiz": [
+        {
+          "prompt": "Un littoral est un espace proche :",
+          "choices": [
+            "de la mer",
+            "d’un volcan uniquement",
+            "du désert uniquement",
+            "d’une frontière invisible"
+          ],
+          "answer": 0,
+          "explanation": "Le littoral correspond à la zone de contact avec la mer."
+        },
+        {
+          "prompt": "Une ville concentre souvent :",
+          "choices": [
+            "des services et des habitations",
+            "seulement des champs",
+            "aucune route",
+            "uniquement des forêts"
+          ],
+          "answer": 0,
+          "explanation": "Les villes regroupent logements, services et transports."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Quel élément indique une activité agricole ?",
+          "choices": [
+            "des champs cultivés",
+            "un port de pêche",
+            "une station de métro",
+            "un phare"
+          ],
+          "answer": 0,
+          "explanation": "Les champs sont liés à l’agriculture."
+        },
+        {
+          "instruction": "Habiter un espace signifie aussi :",
+          "choices": [
+            "s’y déplacer et l’aménager",
+            "le regarder sans agir",
+            "l’effacer",
+            "le réduire à une carte"
+          ],
+          "answer": 0,
+          "explanation": "Les humains transforment les espaces qu’ils habitent."
+        }
+      ],
+      "reward": {
+        "xp": 80,
+        "badge": "badge_25"
+      }
+    }
+  ]
+}

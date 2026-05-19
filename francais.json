@@ -1,0 +1,259 @@
+{
+  "id": "francais",
+  "label": "Français",
+  "description": "Lecture, grammaire, orthographe et écriture CM2.",
+  "missions": [
+    {
+      "id": "fr_lecture_01",
+      "title": "Lecture : comprendre l’implicite",
+      "subtitle": "Repérer ce qui n’est pas écrit directement.",
+      "estimatedTime": "12 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Lire un texte, ce n’est pas seulement retrouver des mots. Il faut aussi déduire des informations. Quand un personnage prend un parapluie avant de sortir, on peut comprendre qu’il pleut ou qu’il risque de pleuvoir. Cette information est implicite.",
+        "remember": "Une réponse implicite se justifie avec des indices précis du texte."
+      },
+      "quiz": [
+        {
+          "prompt": "Dans « Lina remet son manteau et frissonne », que peut-on déduire ?",
+          "choices": [
+            "Lina a froid",
+            "Lina danse",
+            "Lina dort",
+            "Lina écrit"
+          ],
+          "answer": 0,
+          "explanation": "Le verbe « frissonne » et le manteau indiquent le froid."
+        },
+        {
+          "prompt": "Quel mot annonce souvent une cause ?",
+          "choices": [
+            "parce que",
+            "mais",
+            "puis",
+            "cependant"
+          ],
+          "answer": 0,
+          "explanation": "« Parce que » introduit une cause."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Choisis l’indice qui montre que le personnage est pressé.",
+          "choices": [
+            "Il regarde sa montre trois fois.",
+            "Il aime les pommes.",
+            "Il peint une chaise.",
+            "Il ferme un livre lentement."
+          ],
+          "answer": 0,
+          "explanation": "Regarder plusieurs fois sa montre signale l’urgence."
+        },
+        {
+          "instruction": "Quel connecteur marque une opposition ?",
+          "choices": [
+            "mais",
+            "donc",
+            "car",
+            "puis"
+          ],
+          "answer": 0,
+          "explanation": "« Mais » oppose deux idées."
+        }
+      ],
+      "reward": {
+        "xp": 80,
+        "badge": "badge_02"
+      }
+    },
+    {
+      "id": "fr_grammaire_01",
+      "title": "Grammaire : sujet et verbe",
+      "subtitle": "Identifier le groupe sujet et accorder le verbe.",
+      "estimatedTime": "10 min",
+      "difficulty": "Facile",
+      "lesson": {
+        "content": "Le sujet indique qui fait l’action ou de qui l’on parle. Le verbe change selon le sujet : « les élèves travaillent », « l’élève travaille ». Pour trouver le sujet, on peut poser la question « Qui est-ce qui ? » devant le verbe.",
+        "remember": "Le verbe s’accorde toujours avec son sujet, même si le sujet est loin."
+      },
+      "quiz": [
+        {
+          "prompt": "Dans « Les enfants jouent dans la cour », quel est le sujet ?",
+          "choices": [
+            "Les enfants",
+            "jouent",
+            "dans la cour",
+            "cour"
+          ],
+          "answer": 0,
+          "explanation": "« Qui est-ce qui joue ? » Les enfants."
+        },
+        {
+          "prompt": "Quelle forme est correcte ?",
+          "choices": [
+            "Les fleurs poussent.",
+            "Les fleurs pousse.",
+            "Les fleurs pousser.",
+            "Les fleurs pousses."
+          ],
+          "answer": 0,
+          "explanation": "Sujet pluriel : le verbe prend -ent."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Complète : « Le chat et le chien ___ dans le jardin. »",
+          "choices": [
+            "courent",
+            "court",
+            "courir",
+            "couru"
+          ],
+          "answer": 0,
+          "explanation": "Deux sujets = pluriel."
+        },
+        {
+          "instruction": "Trouve le verbe : « Demain, nous visiterons le musée. »",
+          "choices": [
+            "visiterons",
+            "demain",
+            "nous",
+            "musée"
+          ],
+          "answer": 0,
+          "explanation": "Le verbe conjugué est « visiterons »."
+        }
+      ],
+      "reward": {
+        "xp": 75,
+        "badge": "badge_03"
+      }
+    },
+    {
+      "id": "fr_orthographe_01",
+      "title": "Orthographe : accords dans le groupe nominal",
+      "subtitle": "Accorder déterminant, nom et adjectif.",
+      "estimatedTime": "14 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Dans un groupe nominal, les mots s’accordent en genre et en nombre. On écrit « une grande maison » au féminin singulier, mais « des grandes maisons » au féminin pluriel.",
+        "remember": "Déterminant, nom et adjectif doivent raconter la même chose : masculin/féminin et singulier/pluriel."
+      },
+      "quiz": [
+        {
+          "prompt": "Quelle phrase est bien accordée ?",
+          "choices": [
+            "Des petites étoiles brillantes",
+            "Des petit étoiles brillante",
+            "Une petites étoile",
+            "Un grande maison"
+          ],
+          "answer": 0,
+          "explanation": "Tous les mots sont au féminin pluriel."
+        },
+        {
+          "prompt": "Dans « un vieux château », le groupe est :",
+          "choices": [
+            "masculin singulier",
+            "féminin singulier",
+            "masculin pluriel",
+            "féminin pluriel"
+          ],
+          "answer": 0,
+          "explanation": "« un » indique masculin singulier."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Accorde : « des chevaliers courageux » est :",
+          "choices": [
+            "masculin pluriel",
+            "féminin pluriel",
+            "masculin singulier",
+            "féminin singulier"
+          ],
+          "answer": 0,
+          "explanation": "Chevaliers est masculin pluriel."
+        },
+        {
+          "instruction": "Choisis la bonne écriture.",
+          "choices": [
+            "une histoire intéressante",
+            "un histoire intéressant",
+            "une histoire intéressant",
+            "des histoire intéressantes"
+          ],
+          "answer": 0,
+          "explanation": "Histoire est féminin singulier."
+        }
+      ],
+      "reward": {
+        "xp": 85,
+        "badge": "badge_04"
+      }
+    },
+    {
+      "id": "fr_ecriture_01",
+      "title": "Écriture : enrichir une phrase",
+      "subtitle": "Ajouter des précisions utiles.",
+      "estimatedTime": "15 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Une phrase peut être enrichie avec des compléments : lieu, temps, manière, cause. « Le chevalier avance » devient « Au lever du jour, le chevalier avance prudemment vers la forêt ». Les précisions doivent aider le lecteur.",
+        "remember": "Enrichir ne veut pas dire allonger au hasard : chaque ajout doit être clair et utile."
+      },
+      "quiz": [
+        {
+          "prompt": "Quel complément indique un lieu ?",
+          "choices": [
+            "dans la forêt",
+            "hier matin",
+            "lentement",
+            "parce qu’il pleut"
+          ],
+          "answer": 0,
+          "explanation": "« Dans la forêt » répond à « où ? »."
+        },
+        {
+          "prompt": "Quelle phrase est la plus précise ?",
+          "choices": [
+            "Le navire quitte le port au coucher du soleil.",
+            "Le navire part.",
+            "Il y a un truc.",
+            "Quelqu’un fait quelque chose."
+          ],
+          "answer": 0,
+          "explanation": "Elle donne un sujet, une action, un lieu et un moment."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Choisis un complément de manière.",
+          "choices": [
+            "avec prudence",
+            "dans la classe",
+            "à midi",
+            "car il neige"
+          ],
+          "answer": 0,
+          "explanation": "Il indique comment l’action est faite."
+        },
+        {
+          "instruction": "Quelle phrase garde un sens clair ?",
+          "choices": [
+            "Le dragon observe le village depuis la montagne.",
+            "Le dragon depuis observe village montagne.",
+            "Observe le depuis dragon.",
+            "Village le dragon montagne."
+          ],
+          "answer": 0,
+          "explanation": "L’ordre de la phrase est correct."
+        }
+      ],
+      "reward": {
+        "xp": 90,
+        "badge": "badge_05"
+      }
+    }
+  ]
+}

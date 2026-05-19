@@ -1,0 +1,530 @@
+{
+  "count": 35,
+  "items": [
+    {
+      "id": "badge_01",
+      "file": "assets/badges/badge_01.webp",
+      "subject": "francais",
+      "tier": 1,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 1,
+      "col": 1,
+      "sourceBox": [
+        14,
+        17,
+        189,
+        195
+      ]
+    },
+    {
+      "id": "badge_02",
+      "file": "assets/badges/badge_02.webp",
+      "subject": "francais",
+      "tier": 2,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 1,
+      "col": 2,
+      "sourceBox": [
+        209,
+        22,
+        184,
+        191
+      ]
+    },
+    {
+      "id": "badge_03",
+      "file": "assets/badges/badge_03.webp",
+      "subject": "francais",
+      "tier": 3,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 1,
+      "col": 3,
+      "sourceBox": [
+        402,
+        14,
+        189,
+        199
+      ]
+    },
+    {
+      "id": "badge_04",
+      "file": "assets/badges/badge_04.webp",
+      "subject": "francais",
+      "tier": 4,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 1,
+      "col": 4,
+      "sourceBox": [
+        597,
+        17,
+        190,
+        196
+      ]
+    },
+    {
+      "id": "badge_05",
+      "file": "assets/badges/badge_05.webp",
+      "subject": "francais",
+      "tier": 5,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 1,
+      "col": 5,
+      "sourceBox": [
+        790,
+        8,
+        194,
+        207
+      ]
+    },
+    {
+      "id": "badge_06",
+      "file": "assets/badges/badge_06.webp",
+      "subject": "maths",
+      "tier": 1,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 2,
+      "col": 1,
+      "sourceBox": [
+        12,
+        226,
+        189,
+        202
+      ]
+    },
+    {
+      "id": "badge_07",
+      "file": "assets/badges/badge_07.webp",
+      "subject": "maths",
+      "tier": 2,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 2,
+      "col": 2,
+      "sourceBox": [
+        208,
+        235,
+        187,
+        193
+      ]
+    },
+    {
+      "id": "badge_08",
+      "file": "assets/badges/badge_08.webp",
+      "subject": "maths",
+      "tier": 3,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 2,
+      "col": 3,
+      "sourceBox": [
+        403,
+        226,
+        186,
+        202
+      ]
+    },
+    {
+      "id": "badge_09",
+      "file": "assets/badges/badge_09.webp",
+      "subject": "maths",
+      "tier": 4,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 2,
+      "col": 4,
+      "sourceBox": [
+        599,
+        229,
+        185,
+        199
+      ]
+    },
+    {
+      "id": "badge_10",
+      "file": "assets/badges/badge_10.webp",
+      "subject": "maths",
+      "tier": 5,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 2,
+      "col": 5,
+      "sourceBox": [
+        794,
+        226,
+        188,
+        204
+      ]
+    },
+    {
+      "id": "badge_11",
+      "file": "assets/badges/badge_11.webp",
+      "subject": "anglais",
+      "tier": 1,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 3,
+      "col": 1,
+      "sourceBox": [
+        12,
+        444,
+        188,
+        193
+      ]
+    },
+    {
+      "id": "badge_12",
+      "file": "assets/badges/badge_12.webp",
+      "subject": "anglais",
+      "tier": 2,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 3,
+      "col": 2,
+      "sourceBox": [
+        207,
+        447,
+        188,
+        193
+      ]
+    },
+    {
+      "id": "badge_13",
+      "file": "assets/badges/badge_13.webp",
+      "subject": "anglais",
+      "tier": 3,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 3,
+      "col": 3,
+      "sourceBox": [
+        401,
+        442,
+        190,
+        198
+      ]
+    },
+    {
+      "id": "badge_14",
+      "file": "assets/badges/badge_14.webp",
+      "subject": "anglais",
+      "tier": 4,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 3,
+      "col": 4,
+      "sourceBox": [
+        601,
+        444,
+        184,
+        196
+      ]
+    },
+    {
+      "id": "badge_15",
+      "file": "assets/badges/badge_15.webp",
+      "subject": "anglais",
+      "tier": 5,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 3,
+      "col": 5,
+      "sourceBox": [
+        794,
+        441,
+        188,
+        199
+      ]
+    },
+    {
+      "id": "badge_16",
+      "file": "assets/badges/badge_16.webp",
+      "subject": "emc",
+      "tier": 1,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 4,
+      "col": 1,
+      "sourceBox": [
+        10,
+        656,
+        190,
+        198
+      ]
+    },
+    {
+      "id": "badge_17",
+      "file": "assets/badges/badge_17.webp",
+      "subject": "emc",
+      "tier": 2,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 4,
+      "col": 2,
+      "sourceBox": [
+        207,
+        661,
+        188,
+        194
+      ]
+    },
+    {
+      "id": "badge_18",
+      "file": "assets/badges/badge_18.webp",
+      "subject": "emc",
+      "tier": 3,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 4,
+      "col": 3,
+      "sourceBox": [
+        403,
+        656,
+        185,
+        198
+      ]
+    },
+    {
+      "id": "badge_19",
+      "file": "assets/badges/badge_19.webp",
+      "subject": "emc",
+      "tier": 4,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 4,
+      "col": 4,
+      "sourceBox": [
+        601,
+        656,
+        182,
+        202
+      ]
+    },
+    {
+      "id": "badge_20",
+      "file": "assets/badges/badge_20.webp",
+      "subject": "emc",
+      "tier": 5,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 4,
+      "col": 5,
+      "sourceBox": [
+        792,
+        656,
+        192,
+        202
+      ]
+    },
+    {
+      "id": "badge_21",
+      "file": "assets/badges/badge_21.webp",
+      "subject": "histoiregeo",
+      "tier": 1,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 5,
+      "col": 1,
+      "sourceBox": [
+        10,
+        868,
+        190,
+        199
+      ]
+    },
+    {
+      "id": "badge_22",
+      "file": "assets/badges/badge_22.webp",
+      "subject": "histoiregeo",
+      "tier": 2,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 5,
+      "col": 2,
+      "sourceBox": [
+        207,
+        874,
+        188,
+        196
+      ]
+    },
+    {
+      "id": "badge_23",
+      "file": "assets/badges/badge_23.webp",
+      "subject": "histoiregeo",
+      "tier": 3,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 5,
+      "col": 3,
+      "sourceBox": [
+        401,
+        868,
+        188,
+        199
+      ]
+    },
+    {
+      "id": "badge_24",
+      "file": "assets/badges/badge_24.webp",
+      "subject": "histoiregeo",
+      "tier": 4,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 5,
+      "col": 4,
+      "sourceBox": [
+        599,
+        871,
+        184,
+        199
+      ]
+    },
+    {
+      "id": "badge_25",
+      "file": "assets/badges/badge_25.webp",
+      "subject": "histoiregeo",
+      "tier": 5,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 5,
+      "col": 5,
+      "sourceBox": [
+        792,
+        868,
+        190,
+        202
+      ]
+    },
+    {
+      "id": "badge_26",
+      "file": "assets/badges/badge_26.webp",
+      "subject": "arts",
+      "tier": 1,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 6,
+      "col": 1,
+      "sourceBox": [
+        12,
+        1083,
+        188,
+        199
+      ]
+    },
+    {
+      "id": "badge_27",
+      "file": "assets/badges/badge_27.webp",
+      "subject": "arts",
+      "tier": 2,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 6,
+      "col": 2,
+      "sourceBox": [
+        207,
+        1086,
+        186,
+        197
+      ]
+    },
+    {
+      "id": "badge_28",
+      "file": "assets/badges/badge_28.webp",
+      "subject": "arts",
+      "tier": 3,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 6,
+      "col": 3,
+      "sourceBox": [
+        403,
+        1081,
+        185,
+        204
+      ]
+    },
+    {
+      "id": "badge_29",
+      "file": "assets/badges/badge_29.webp",
+      "subject": "arts",
+      "tier": 4,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 6,
+      "col": 4,
+      "sourceBox": [
+        599,
+        1083,
+        182,
+        205
+      ]
+    },
+    {
+      "id": "badge_30",
+      "file": "assets/badges/badge_30.webp",
+      "subject": "arts",
+      "tier": 5,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 6,
+      "col": 5,
+      "sourceBox": [
+        792,
+        1081,
+        190,
+        207
+      ]
+    },
+    {
+      "id": "badge_31",
+      "file": "assets/badges/badge_31.webp",
+      "subject": "sciences",
+      "tier": 1,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 7,
+      "col": 1,
+      "sourceBox": [
+        21,
+        1295,
+        173,
+        173
+      ]
+    },
+    {
+      "id": "badge_32",
+      "file": "assets/badges/badge_32.webp",
+      "subject": "sciences",
+      "tier": 2,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 7,
+      "col": 2,
+      "sourceBox": [
+        211,
+        1299,
+        179,
+        169
+      ]
+    },
+    {
+      "id": "badge_33",
+      "file": "assets/badges/badge_33.webp",
+      "subject": "sciences",
+      "tier": 3,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 7,
+      "col": 3,
+      "sourceBox": [
+        403,
+        1295,
+        182,
+        173
+      ]
+    },
+    {
+      "id": "badge_34",
+      "file": "assets/badges/badge_34.webp",
+      "subject": "sciences",
+      "tier": 4,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 7,
+      "col": 4,
+      "sourceBox": [
+        601,
+        1298,
+        178,
+        170
+      ]
+    },
+    {
+      "id": "badge_35",
+      "file": "assets/badges/badge_35.webp",
+      "subject": "sciences",
+      "tier": 5,
+      "sheet": "assets/ui/Trophy_sheet.webp",
+      "row": 7,
+      "col": 5,
+      "sourceBox": [
+        790,
+        1295,
+        190,
+        173
+      ]
+    }
+  ]
+}

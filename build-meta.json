@@ -1,0 +1,8 @@
+{
+  "name": "Eden5 WebP fix assets",
+  "images": "webp only",
+  "png_count": 0,
+  "webp_count": 103,
+  "cache": "edenschool-eden5-webp-v2-fix-assets",
+  "github_pages": "root-relative safe through script URL"
+}

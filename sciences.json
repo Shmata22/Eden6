@@ -1,0 +1,259 @@
+{
+  "id": "sciences",
+  "label": "Sciences",
+  "description": "Vivant, matière, énergie et technologie.",
+  "missions": [
+    {
+      "id": "sc_vivant_01",
+      "title": "Le vivant : besoins des plantes",
+      "subtitle": "Comprendre croissance et conditions.",
+      "estimatedTime": "12 min",
+      "difficulty": "Facile",
+      "lesson": {
+        "content": "Pour grandir, une plante a besoin d’eau, de lumière, d’air et de sels minéraux. Les expériences doivent comparer une seule condition à la fois pour savoir ce qui influence la croissance.",
+        "remember": "Une expérience fiable ne change qu’un seul facteur à la fois."
+      },
+      "quiz": [
+        {
+          "prompt": "De quoi une plante a-t-elle besoin pour pousser ?",
+          "choices": [
+            "eau et lumière",
+            "uniquement de bruit",
+            "de plastique",
+            "de sel pur"
+          ],
+          "answer": 0,
+          "explanation": "L’eau et la lumière sont nécessaires."
+        },
+        {
+          "prompt": "Dans une expérience, il faut changer :",
+          "choices": [
+            "un seul facteur",
+            "tous les facteurs",
+            "aucun résultat",
+            "la question"
+          ],
+          "answer": 0,
+          "explanation": "Sinon on ne sait pas ce qui explique le résultat."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Si deux plantes reçoivent la même eau mais pas la même lumière, on teste :",
+          "choices": [
+            "l’effet de la lumière",
+            "l’effet du pot",
+            "l’effet du nom",
+            "l’effet du crayon"
+          ],
+          "answer": 0,
+          "explanation": "Seule la lumière varie."
+        },
+        {
+          "instruction": "Une graine peut donner :",
+          "choices": [
+            "une plante",
+            "un caillou",
+            "un aimant",
+            "une pile"
+          ],
+          "answer": 0,
+          "explanation": "La graine contient une jeune plante."
+        }
+      ],
+      "reward": {
+        "xp": 75,
+        "badge": "badge_31"
+      }
+    },
+    {
+      "id": "sc_matiere_01",
+      "title": "Matière : états et changements",
+      "subtitle": "Identifier solide, liquide, gaz.",
+      "estimatedTime": "12 min",
+      "difficulty": "Facile",
+      "lesson": {
+        "content": "La matière peut être solide, liquide ou gazeuse. L’eau liquide devient glace quand elle solidifie et devient vapeur quand elle se vaporise. La température joue un rôle important.",
+        "remember": "Fusion : solide vers liquide ; solidification : liquide vers solide."
+      },
+      "quiz": [
+        {
+          "prompt": "La glace est de l’eau à l’état :",
+          "choices": [
+            "solide",
+            "liquide",
+            "gazeux",
+            "invisible"
+          ],
+          "answer": 0,
+          "explanation": "La glace garde une forme : elle est solide."
+        },
+        {
+          "prompt": "Quand la glace devient eau liquide, c’est une :",
+          "choices": [
+            "fusion",
+            "solidification",
+            "condensation uniquement",
+            "combustion"
+          ],
+          "answer": 0,
+          "explanation": "La fusion transforme un solide en liquide."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "La vapeur d’eau est un :",
+          "choices": [
+            "gaz",
+            "solide",
+            "métal",
+            "minéral"
+          ],
+          "answer": 0,
+          "explanation": "La vapeur est l’état gazeux de l’eau."
+        },
+        {
+          "instruction": "La solidification correspond à :",
+          "choices": [
+            "liquide vers solide",
+            "gaz vers solide toujours",
+            "solide vers liquide",
+            "solide vers gaz"
+          ],
+          "answer": 0,
+          "explanation": "C’est le passage vers l’état solide."
+        }
+      ],
+      "reward": {
+        "xp": 75,
+        "badge": "badge_32"
+      }
+    },
+    {
+      "id": "sc_energie_01",
+      "title": "Énergie : circuits électriques",
+      "subtitle": "Comprendre un circuit simple.",
+      "estimatedTime": "13 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Pour qu’une lampe brille dans un circuit simple, il faut une pile, des fils conducteurs, une lampe et une boucle fermée. Si le circuit est ouvert, le courant ne circule pas.",
+        "remember": "Un circuit fermé laisse passer le courant ; un circuit ouvert l’arrête."
+      },
+      "quiz": [
+        {
+          "prompt": "Pour que la lampe brille, le circuit doit être :",
+          "choices": [
+            "fermé",
+            "ouvert",
+            "coupé",
+            "sans pile"
+          ],
+          "answer": 0,
+          "explanation": "Le courant circule dans une boucle fermée."
+        },
+        {
+          "prompt": "Quel objet fournit l’énergie dans un circuit simple ?",
+          "choices": [
+            "la pile",
+            "la règle",
+            "le cahier",
+            "la gomme"
+          ],
+          "answer": 0,
+          "explanation": "La pile est le générateur."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Un interrupteur ouvert :",
+          "choices": [
+            "arrête le courant",
+            "augmente la lumière toujours",
+            "remplace la pile",
+            "transforme le fil en aimant"
+          ],
+          "answer": 0,
+          "explanation": "Il coupe le circuit."
+        },
+        {
+          "instruction": "Un fil métallique est généralement :",
+          "choices": [
+            "conducteur",
+            "isolant parfait",
+            "liquide",
+            "vivant"
+          ],
+          "answer": 0,
+          "explanation": "Les métaux conduisent le courant."
+        }
+      ],
+      "reward": {
+        "xp": 85,
+        "badge": "badge_35"
+      }
+    },
+    {
+      "id": "sc_techno_01",
+      "title": "Technologie : objets techniques",
+      "subtitle": "Fonction d’usage et solution technique.",
+      "estimatedTime": "12 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Un objet technique est fabriqué par l’humain pour répondre à un besoin. Sa fonction d’usage explique à quoi il sert. Les solutions techniques décrivent comment il fonctionne.",
+        "remember": "Fonction d’usage = à quoi ça sert ; solution technique = comment c’est fait."
+      },
+      "quiz": [
+        {
+          "prompt": "La fonction d’usage d’un vélo est surtout :",
+          "choices": [
+            "se déplacer",
+            "cuire un plat",
+            "mesurer le temps",
+            "écrire"
+          ],
+          "answer": 0,
+          "explanation": "Un vélo sert principalement au déplacement."
+        },
+        {
+          "prompt": "Les freins d’un vélo sont une :",
+          "choices": [
+            "solution technique",
+            "matière première seulement",
+            "décoration obligatoire",
+            "source d’eau"
+          ],
+          "answer": 0,
+          "explanation": "Ils permettent de ralentir ou s’arrêter."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Un objet technique est :",
+          "choices": [
+            "fabriqué pour répondre à un besoin",
+            "toujours vivant",
+            "toujours naturel",
+            "impossible à améliorer"
+          ],
+          "answer": 0,
+          "explanation": "Il est conçu par l’humain."
+        },
+        {
+          "instruction": "Pour un stylo, la fonction d’usage est :",
+          "choices": [
+            "écrire",
+            "voler",
+            "chauffer",
+            "arroser"
+          ],
+          "answer": 0,
+          "explanation": "Un stylo sert à écrire."
+        }
+      ],
+      "reward": {
+        "xp": 80,
+        "badge": "badge_33"
+      }
+    }
+  ]
+}

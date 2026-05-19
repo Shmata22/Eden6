@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EdenSchool subject content schema",
+  "type": "object",
+  "required": ["id", "label", "description", "missions"],
+  "properties": {
+    "id": { "type": "string" },
+    "label": { "type": "string" },
+    "description": { "type": "string" },
+    "missions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "subtitle", "estimatedTime", "difficulty", "lesson", "quiz", "exercises", "reward"],
+        "properties": {
+          "id": { "type": "string" },
+          "title": { "type": "string" },
+          "subtitle": { "type": "string" },
+          "estimatedTime": { "type": "string" },
+          "difficulty": { "type": "string" },
+          "lesson": {
+            "type": "object",
+            "required": ["content", "remember"],
+            "properties": {
+              "content": { "type": "string" },
+              "remember": { "type": "string" }
+            }
+          },
+          "quiz": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["prompt", "choices", "answer", "explanation"],
+              "properties": {
+                "prompt": { "type": "string" },
+                "choices": { "type": "array", "minItems": 4, "maxItems": 4, "items": { "type": "string" } },
+                "answer": { "type": "integer", "minimum": 0, "maximum": 3 },
+                "explanation": { "type": "string" }
+              }
+            }
+          },
+          "exercises": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["instruction", "choices", "answer", "explanation"],
+              "properties": {
+                "instruction": { "type": "string" },
+                "choices": { "type": "array", "minItems": 4, "maxItems": 4, "items": { "type": "string" } },
+                "answer": { "type": "integer", "minimum": 0, "maximum": 3 },
+                "explanation": { "type": "string" }
+              }
+            }
+          },
+          "reward": {
+            "type": "object",
+            "required": ["xp", "badge"],
+            "properties": {
+              "xp": { "type": "integer" },
+              "badge": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

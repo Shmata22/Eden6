@@ -1,0 +1,259 @@
+{
+  "id": "maths",
+  "label": "Maths",
+  "description": "Nombres, calcul, géométrie et grandeurs CM2.",
+  "missions": [
+    {
+      "id": "ma_fractions_01",
+      "title": "Fractions : partager une unité",
+      "subtitle": "Comprendre numérateur et dénominateur.",
+      "estimatedTime": "12 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Une fraction représente une part d’une unité partagée en parts égales. Dans 3/4, le dénominateur 4 indique le nombre de parts égales, le numérateur 3 indique combien de parts sont prises.",
+        "remember": "Le dénominateur dit en combien on partage ; le numérateur dit combien on prend."
+      },
+      "quiz": [
+        {
+          "prompt": "Dans 5/8, quel est le dénominateur ?",
+          "choices": [
+            "8",
+            "5",
+            "13",
+            "3"
+          ],
+          "answer": 0,
+          "explanation": "Le dénominateur est le nombre du bas."
+        },
+        {
+          "prompt": "Quelle fraction est égale à un demi ?",
+          "choices": [
+            "2/4",
+            "1/3",
+            "3/5",
+            "4/6"
+          ],
+          "answer": 0,
+          "explanation": "2 parts sur 4 équivaut à 1 part sur 2."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Un gâteau est coupé en 6 parts égales. On prend 2 parts. Quelle fraction ?",
+          "choices": [
+            "2/6",
+            "6/2",
+            "2/8",
+            "4/6"
+          ],
+          "answer": 0,
+          "explanation": "On prend 2 parts sur 6."
+        },
+        {
+          "instruction": "Quelle fraction est la plus grande ?",
+          "choices": [
+            "3/4",
+            "1/4",
+            "2/4",
+            "0/4"
+          ],
+          "answer": 0,
+          "explanation": "À dénominateur égal, le plus grand numérateur gagne."
+        }
+      ],
+      "reward": {
+        "xp": 90,
+        "badge": "badge_08"
+      }
+    },
+    {
+      "id": "ma_decimal_01",
+      "title": "Nombres décimaux",
+      "subtitle": "Lire, comparer et ranger.",
+      "estimatedTime": "13 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Un nombre décimal possède une partie entière et une partie décimale séparées par une virgule. Pour comparer 4,56 et 4,6, on peut écrire 4,60 : donc 4,60 est supérieur à 4,56.",
+        "remember": "Ajouter des zéros à droite de la partie décimale ne change pas la valeur."
+      },
+      "quiz": [
+        {
+          "prompt": "Quel nombre est le plus grand ?",
+          "choices": [
+            "7,4",
+            "7,36",
+            "7,09",
+            "7,399"
+          ],
+          "answer": 0,
+          "explanation": "7,4 = 7,400, donc il est supérieur."
+        },
+        {
+          "prompt": "4,50 est égal à :",
+          "choices": [
+            "4,5",
+            "4,05",
+            "45,0",
+            "0,45"
+          ],
+          "answer": 0,
+          "explanation": "Un zéro final après la virgule ne change pas le nombre."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Range du plus petit au plus grand : 2,8 ; 2,08 ; 2,18",
+          "choices": [
+            "2,08 ; 2,18 ; 2,8",
+            "2,8 ; 2,18 ; 2,08",
+            "2,18 ; 2,08 ; 2,8",
+            "2,08 ; 2,8 ; 2,18"
+          ],
+          "answer": 0,
+          "explanation": "Compare les dixièmes puis les centièmes."
+        },
+        {
+          "instruction": "Combien vaut 3 unités et 7 dixièmes ?",
+          "choices": [
+            "3,7",
+            "37",
+            "0,37",
+            "7,3"
+          ],
+          "answer": 0,
+          "explanation": "7 dixièmes s’écrit 0,7."
+        }
+      ],
+      "reward": {
+        "xp": 85,
+        "badge": "badge_06"
+      }
+    },
+    {
+      "id": "ma_calcul_01",
+      "title": "Calcul : priorité des opérations",
+      "subtitle": "Calculer dans le bon ordre.",
+      "estimatedTime": "10 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Dans un calcul, les multiplications et divisions se font avant les additions et soustractions, sauf s’il y a des parenthèses. Exemple : 5 + 3 × 2 = 5 + 6 = 11.",
+        "remember": "Parenthèses d’abord, puis multiplications/divisions, puis additions/soustractions."
+      },
+      "quiz": [
+        {
+          "prompt": "Combien vaut 6 + 4 × 3 ?",
+          "choices": [
+            "18",
+            "30",
+            "24",
+            "15"
+          ],
+          "answer": 0,
+          "explanation": "On calcule 4 × 3 = 12, puis 6 + 12 = 18."
+        },
+        {
+          "prompt": "Combien vaut (6 + 4) × 3 ?",
+          "choices": [
+            "30",
+            "18",
+            "24",
+            "13"
+          ],
+          "answer": 0,
+          "explanation": "Les parenthèses se calculent d’abord."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Calcule : 20 - 2 × 5",
+          "choices": [
+            "10",
+            "90",
+            "50",
+            "18"
+          ],
+          "answer": 0,
+          "explanation": "2 × 5 = 10, puis 20 - 10 = 10."
+        },
+        {
+          "instruction": "Calcule : 8 × (3 + 2)",
+          "choices": [
+            "40",
+            "26",
+            "19",
+            "13"
+          ],
+          "answer": 0,
+          "explanation": "3+2=5, puis 8×5=40."
+        }
+      ],
+      "reward": {
+        "xp": 80,
+        "badge": "badge_07"
+      }
+    },
+    {
+      "id": "ma_geo_01",
+      "title": "Géométrie : triangles et angles",
+      "subtitle": "Reconnaître des figures.",
+      "estimatedTime": "12 min",
+      "difficulty": "Moyenne",
+      "lesson": {
+        "content": "Un triangle a trois côtés. Un triangle rectangle possède un angle droit. Un triangle isocèle possède deux côtés de même longueur. On utilise l’équerre pour vérifier un angle droit.",
+        "remember": "Les propriétés permettent de nommer précisément une figure."
+      },
+      "quiz": [
+        {
+          "prompt": "Combien de côtés a un triangle ?",
+          "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": 0,
+          "explanation": "Triangle signifie figure à trois côtés."
+        },
+        {
+          "prompt": "Quel outil vérifie un angle droit ?",
+          "choices": [
+            "équerre",
+            "compas",
+            "rapporteur seulement",
+            "calculatrice"
+          ],
+          "answer": 0,
+          "explanation": "L’équerre sert à repérer l’angle droit."
+        }
+      ],
+      "exercises": [
+        {
+          "instruction": "Un triangle avec deux côtés égaux est :",
+          "choices": [
+            "isocèle",
+            "rectangle forcément",
+            "équilatéral forcément",
+            "quelconque"
+          ],
+          "answer": 0,
+          "explanation": "Isocèle signifie deux côtés de même longueur."
+        },
+        {
+          "instruction": "Un carré possède :",
+          "choices": [
+            "4 angles droits",
+            "3 côtés",
+            "aucun axe de symétrie",
+            "2 angles seulement"
+          ],
+          "answer": 0,
+          "explanation": "Un carré a quatre côtés égaux et quatre angles droits."
+        }
+      ],
+      "reward": {
+        "xp": 90,
+        "badge": "badge_09"
+      }
+    }
+  ]
+}
